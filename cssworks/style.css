@@ -1,0 +1,31 @@
+/*selectors */
+/*tagselector or id selector or class selector{property1:value;}
+
+/*tagselectotr tagname*/
+/*id selector .*/
+/* class  selector # */
+h1{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+body{
+    background-color:black;
+
+}
+#one{
+    color:#b5912d;
+    text-decoration: none;
+    text-align: center;
+
+}
+.two{
+    color:rgb(180, 144, 45);
+    text-align: center;
+}
+
+h3{
+    color:hsl(44°, 60%, 44%); 
+    text-align: center;
+}
+

@@ -1,0 +1,22 @@
+/* selectors */
+
+h1{
+    color:tomato;
+    text-align: center;
+    text-decoration:underline ;
+}
+body{
+    background-color:black ;
+
+}
+#one{
+    color: #0e868f;
+    text-decoration: blue;
+    text-align: center;
+}
+.two{
+    color:hsl(8°, 74%, 36%);
+}
+#clr{
+    color:rgb(158, 42, 24);
+}

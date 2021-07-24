@@ -1,0 +1,34 @@
+div{
+
+    width:24%;
+    height:700px;
+     border-width:1px; 
+     border-style:solid; 
+     border-color:black; 
+    float:left;
+    
+  
+    
+    /* border: 5px solid red: */
+    
+
+}
+
+img{
+    width:100%;
+    height:48%;
+    border-radius:1px;
+    
+    
+}
+
+h1{
+    background-color:rgb(50, 168, 82);
+    text-align: center;
+    
+}
+div p{
+    text-align: left;
+    color:brown;
+    
+}

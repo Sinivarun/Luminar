@@ -1,0 +1,66 @@
+body {
+    height: 2400px;
+
+  }
+
+  .row1 img {
+    height: 600px;
+    width: 100%;
+  }
+
+  img {
+
+    height: 60px;
+  }
+
+
+  .row img{
+    height:400px;
+  }
+
+  .nav-item a:hover {
+
+  background-color: blueviolet;
+
+  }
+   .row1 h2{
+    color: #5e068a;
+    font-weight:bolder;
+
+   }
+  h2 span:nth-child(1){
+    color:#5e068a99;
+  }
+
+  .row1{
+    margin-top:120px;
+    display:flex;
+    padding:5px;
+  
+  }
+  .row1 p{
+    margin-top:15px;
+    line-height:30px;
+  }
+  .btn-learn{
+    padding: 16px 27px;
+font-weight: 600;
+margin-top: 21px;
+border-radius: 50px;
+background-color: #5e068a;
+color:white;
+  }
+.btn-learn:hover{
+  background-color:white;
+  color: #5e068a;
+}
+.mlabel{
+  margin-left:100px;
+  padding:5px;
+}
+header{
+  background-color: #5e068a;
+  color:white;
+  height:50px;
+
+} 
